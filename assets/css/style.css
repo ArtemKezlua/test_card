@@ -1,0 +1,9 @@
+.photo-profile {
+  width: 120px;
+  height: 120px;
+  padding: 10px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid red;
+  background-color: red;
+}
